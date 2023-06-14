@@ -11,7 +11,6 @@ This script provides a function for dividing an array into equally sized segment
 
 1. Clone or download the script files to your local machine.
 
-2. Install the required dependencies by running the following command:
 
 
 ## Usage
