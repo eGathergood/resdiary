@@ -24,8 +24,8 @@ This script provides a function for dividing an array into equally sized segment
 
 4. Compile the TypeScript code to JavaScript by running the following command:
 
-- 'tsc groupArrayElements.ts'
-- 'node groupArrayelements,ts'
+-  `tsc groupArrayElements.ts`
+-  `node groupArrayElements.ts`
 
 
 ## How it works
